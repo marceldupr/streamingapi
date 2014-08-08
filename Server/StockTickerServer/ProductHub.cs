@@ -16,6 +16,7 @@ namespace StockTickerServer
     {
         private const string MessageQuery = "select * from SignalR.Messages_0 where InsertedOn > @lastMessageDate";
         private static int _messageId = 1;
+        private static readonly int Source = new Random().Next(0, 10);
         private static readonly object Mutex = new object();
         private Timer _timer;
 
@@ -23,7 +24,7 @@ namespace StockTickerServer
         {
             _timer = new Timer(state =>
             {
-                Clients.All.updateProduct(string.Format("ID {0}: Product has been updated", _messageId));
+                Clients.All.updateProduct(string.Format("Source {0}, ID {1}: Product has been updated", Source, _messageId));
                 lock (Mutex)
                 {
                     _messageId++;
