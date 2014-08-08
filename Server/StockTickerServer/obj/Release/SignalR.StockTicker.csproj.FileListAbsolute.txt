@@ -1,0 +1,17 @@
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.AspNet.SignalR.StockTicker.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.AspNet.SignalR.StockTicker.pdb
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.Owin.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.Owin.Security.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Newtonsoft.Json.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Owin.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.Owin.xml
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Microsoft.Owin.Security.xml
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\bin\Newtonsoft.Json.xml
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\obj\Release\Microsoft.AspNet.SignalR.StockTicker.dll
+C:\Projects\SignalR-StockTicker\SignalR.StockTicker\SignalR.StockTicker\obj\Release\Microsoft.AspNet.SignalR.StockTicker.pdb
