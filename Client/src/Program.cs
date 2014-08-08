@@ -16,7 +16,7 @@ namespace Client
 
             stockTickerHubProxy.On<string>("updateProduct", Console.WriteLine);
 
-            Console.WriteLine("Options = 's' for 'Start', 'i' for 'Interrupt', 'x', 'Continue' for 'c' for 'Stop':");
+            Console.WriteLine("Options = 's' for 'Start', 'i' for 'Interrupt', 'c' for 'Continue', 'x' for 'Stop':");
             ConsoleKeyInfo input = Console.ReadKey(true);
 
             while (input.KeyChar != 'x')
